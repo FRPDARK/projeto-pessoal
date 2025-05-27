@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+    align-items: normal;
+}
+.cabeçalho{
+    background-color: blue;
+    align-items: center;
+    display: flex; justify-content:center;
+
+}
+.Imagem{
+    position: relative; left: 50%;
+    width: 100px;
+}
+.linkedin{
+    display: flex; 
+    align-items: left;
+    width: 30px;
+}
